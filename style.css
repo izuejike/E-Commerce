@@ -103,6 +103,12 @@ ul{
     	text-align: center;
     	display: block;
     }
+    .mak{
+    	display: none;
+    }
+    .the{
+    	text-align: center;
+    }
 }
 .search{
 	text-align: center;
@@ -152,14 +158,58 @@ ul{
 @media screen and (max-width: 1307px) {
 	.backup{
 		width: 300px;
+		display: none;
 
 	}	
 	.rit{
 		display: none;
 	}
+	.mak{
+		display: none;
+	}
+	.the{
+		text-align: center;
+	}
+	.btn2{
+		text-align: center;
+	}
+	.ref{
+		text-align: center;
+	}
+	.vert1{
+		margin-left: 140px
+	}
+
 		
 	
 }
+@media screen and (max-width: 1024px) {
+	
+		.backup{
+		width: 300px;
+		display: none;
+
+	}	
+	.rit{
+		display: none;
+	}
+	.mak{
+		display: none;
+	}
+	.the{
+		text-align: center;
+	}
+	.btn2{
+		text-align: center;
+	}
+	.ref{
+		text-align: center;
+	}
+	.vert1{
+		margin-left: 150px;
+		margin-top: 100px
+	}
+	}	
 .rit{
 	position: absolute;
 	left: 0;
