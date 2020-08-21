@@ -151,8 +151,7 @@ ul{
 }
 @media screen and (max-width: 1307px) {
 	.backup{
-		width: 900px;
-		display: none;
+		width: 300px;
 
 	}	
 	.rit{
